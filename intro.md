@@ -63,7 +63,7 @@ customizable [workspace]() and task switching for a fast workflow is necessary,
 ## Package Managment
 releax OS offer both commandline and graphical interface to manage both system and user applications
 
-- **[sys-app]()** : is a releax OS homegrown package manager written completely in [shell script]() *some parts in c++ also* [Github link](https://github.com/itsmanjeet/sys-app)
+- **[sys-app](/sys/sys-app)** : is a releax OS homegrown package manager written completely in [shell script]() *some parts in c++ also* [Github link](https://github.com/itsmanjeet/sys-app)
 - **[bazaar]()** : is a Frontend of *sys-app* to provide a graphical interface to easily manager applications [Github Link](https://github.com/itsmanjeet/Bazaar)
 - **[flatpak]()** : is a linux universal package manager, *releax os is written from scratch, that why their is a very little applications in the repository, that's why flatpak is provided, so that you do not miss out you faviourate applications*
 
